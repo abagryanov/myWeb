@@ -1,0 +1,15 @@
+.marked {
+    background: aqua;
+}
+
+.unmarked {
+    color: white;
+}
+
+#grid {
+    cursor: pointer;
+}
+
+.cell {
+    
+}
